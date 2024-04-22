@@ -3,6 +3,8 @@ node_modules
 *.gz
 .env
 .next/
+.contentlayer/
+
 
 
 
