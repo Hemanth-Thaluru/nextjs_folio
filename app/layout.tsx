@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "Hemanth.info",
     images: [
       {
-        url: "https://hemanth.info/hemanth.png",
+        url: "https://nextjsfolio-gpsanpvp9-hemanth-thalurus-projects.vercel.app/hemanth.png",
         width: 1920,
         height: 1080,
       },
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "../public/favicon.png",
   },
 };
 const inter = Inter({
