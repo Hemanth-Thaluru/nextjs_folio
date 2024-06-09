@@ -13,9 +13,10 @@ This is my personal website built using Next.js, a React framework for building 
 
 1. Clone the repository: `git clone https://github.com/Hemanth-Thaluru/nextjs_folio.git`
 2. Navigate to the project directory: `cd nextjs_folio`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm run dev`
-5. Open your browser and visit `http://localhost:3000` to see the website in action.
+3. Get your [Upstash Redis](https://console.upstash.com/redis) token and place it in `.env` file as shown in `.env.sample`
+4. Install dependencies: `npm install`
+5. Start the development server: `npm run dev`
+6. Open your browser and visit `http://localhost:3000` to see the website in action.
 
 ## Folder Structure
 
